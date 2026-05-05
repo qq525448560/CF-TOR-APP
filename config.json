@@ -1,0 +1,6 @@
+{
+  "uuid": "e258977b-e413-4718-a3af-02d75492c349",
+  "workerHost": "patient-voice-154f.88-4b6.workers.dev",
+  "apiUrl": "https://patient-voice-154f.88-4b6.workers.dev/getServ?hops=2",
+  "template": "vless://%s@%s:443?type=ws&encryption=none&flow=&host=%s&path=%s&ed=2560&security=tls&sni=%s&fp=chrome&packetEncoding=xudp#CF-TOR专用"
+}
